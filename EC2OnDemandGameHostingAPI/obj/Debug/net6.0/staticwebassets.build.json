@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9Y973ch8t64kaJ7WHDp9zOo8m6q9qKLbc3Z0bNhkCFE=",
+  "Source": "EC2OnDemandGameHostingAPI",
+  "BasePath": "_content/EC2OnDemandGameHostingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

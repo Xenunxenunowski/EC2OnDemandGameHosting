@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "x5XWr6EeDKucJ73d5aXbk4NNmPTPKLwnJNunjc6qX1+qVlKd6EUtlsraiQIYcN7TmYdlXc8WcdnC8qIxMbzLxw==",
+  "success": true,
+  "projectFilePath": "/home/xenu/RiderProjects/EC2OnDemandGameHostingAPI/EC2OnDemandGameHostingAPI/EC2OnDemandGameHostingAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/xenu/.nuget/packages/awssdk.core/3.7.12.5/awssdk.core.3.7.12.5.nupkg.sha512",
+    "/home/xenu/.nuget/packages/awssdk.ec2/3.7.76.2/awssdk.ec2.3.7.76.2.nupkg.sha512",
+    "/home/xenu/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/xenu/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/xenu/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/home/xenu/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/xenu/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/xenu/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/xenu/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/home/xenu/.nuget/packages/system.configuration.configurationmanager/6.0.0/system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "/home/xenu/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512",
+    "/home/xenu/.nuget/packages/system.security.accesscontrol/6.0.0/system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "/home/xenu/.nuget/packages/system.security.cryptography.protecteddata/6.0.0/system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "/home/xenu/.nuget/packages/system.security.permissions/6.0.0/system.security.permissions.6.0.0.nupkg.sha512",
+    "/home/xenu/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512",
+    "/home/xenu/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
