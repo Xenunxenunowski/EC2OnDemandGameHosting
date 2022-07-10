@@ -22,6 +22,7 @@ namespace EC2OnDemandControl
   {
     public static bool StartInstance()
     {
+      
       ServerState serverStatus =
         GetInstanceState(
           new AmazonEC2Client(

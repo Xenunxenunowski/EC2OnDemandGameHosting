@@ -20,6 +20,7 @@ public class Program
             }  
             else
             {
+                Console.WriteLine(ConfigurationManager.AppSettings["secretKey"]);
                 Settings.Instance.secretKey = appSettings.Get("secretKey");
                 Settings.Instance.secretKey = appSettings.Get("accessKey");
                 Settings.Instance.secretKey = appSettings.Get("instanceID");
@@ -34,7 +35,7 @@ public class Program
         }  
         var builder = WebApplication.CreateBuilder(args);
         
-
+        Console.WriteLine("KEY"+Settings.Instance.acessKey);
 // Add services to the container.
 
         builder.Services.AddControllers();
@@ -56,7 +57,7 @@ public class Program
         app.UseAuthorization();
 
         app.MapControllers();
-
+        
         app.Run();
         return 0;
     }
