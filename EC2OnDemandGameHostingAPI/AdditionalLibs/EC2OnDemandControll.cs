@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+using System.Threading;
 using Amazon;
 using Amazon.Runtime;
 using Amazon.EC2;

@@ -1,5 +1,9 @@
+using System;
 using System.Configuration;
 using EC2OnDemandGameHostingAPI.ConfigStuff;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 using ConfigurationManager = System.Configuration.ConfigurationManager;
 
 

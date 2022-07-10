@@ -1,3 +1,5 @@
+using System;
+
 namespace EC2OnDemandGameHostingAPI;
 
 public class WeatherForecast
